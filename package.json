@@ -1,6 +1,6 @@
 {
   "name": "angular-reddit-clone",
-  "version": "0.0.0",
+  "version": "18.18.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
